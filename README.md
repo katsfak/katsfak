@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Web Development<br>💬 Ask me about programming<br>⚡ Fun fact fast learner😄
+🌱 I’m currently learning Web Development and Mobile Development<br>💬 Ask me about programming<br>⚡ Fun fact fast learner😄
 
 
 ## 🌐 Socials:
